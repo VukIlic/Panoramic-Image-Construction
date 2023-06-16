@@ -10,4 +10,5 @@ The output of the project is generated panoramic image.
 A full explanation of how the algorithm works can be found in the file Panoramic_image.pdf.
 
 One example of panoramic image created from a set of pictures is shown in the following figure:
+
 ![Screenshot_2](https://github.com/VukIlic/PanoramicImageConstruction/assets/135129982/f0858ddf-2e3e-4864-b911-d19444f27013)
