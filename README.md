@@ -1,4 +1,5 @@
-# PanoramicImageConstruction
+# Panoramic-Image-Construction
+
 The main goal of this project is to create a panoramic image from a set of pictures taken with a rotating camera from a single viewpoint.
 
 The project is provided in two files: panoramic_image.cpp and panoramic_utils.h.
